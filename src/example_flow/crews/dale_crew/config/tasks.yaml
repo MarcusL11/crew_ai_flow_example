@@ -1,0 +1,8 @@
+artist_task:
+  description: >
+    Create a visually appealing and meaningful artwork based on the provided themes and guidelines.
+    Ensure that the artwork effectively communicates the intended message and engages the target audience.
+  expected_output: >
+    An original artworks that align with the provided themes and guidelines.
+    Each piece should visually engaging and convey the intended message clearly.
+  agent: artist

@@ -1,0 +1,10 @@
+image_describer_task:
+  description: >
+    Analyze the poem and illustrate it as an image in words, focusing on key elements such as objects, colors, textures, and context.
+    Ensure that the descriptions are accurate and provide valuable insights for data interpretation.
+  expected_output: >
+    A detailed description of the image, highlighting the main elements, context, and any notable features.
+    Each description should be concise yet comprehensive, providing a clear understanding of the image content.
+  agent: image_describer
+
+

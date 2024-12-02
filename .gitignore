@@ -1,0 +1,8 @@
+.env
+__pycache__/
+lib/
+image.txt
+image_description.txt
+poem.txt
+.venv
+
